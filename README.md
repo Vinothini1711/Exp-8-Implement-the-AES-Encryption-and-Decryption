@@ -1,8 +1,8 @@
-# Cryptography---Exp-8-Implement-the-AES-Encryption-and-Decryption
-# AIM :
+# Implement-the-AES-Encryption-and-Decryption
+## AIM :
 To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
-# ALGORITHM :
+## ALGORITHM :
 Step 1:
 AES is based on a design principle known as a substitution–permutation.
 
@@ -15,7 +15,7 @@ It has a fixed block size of 128 bits, and a key size of 128, 192, or 256 bits.
 Step 4:
 AES operates on a 4 × 4 column-major order array of bytes, termed the state.
 
-# PROGRAM :
+## PROGRAM :
 ```
 #include <stdio.h>
 #include <string.h>
@@ -52,8 +52,8 @@ int main() {
     return 0;
 }
 ```
-# OUTPUT:
+## OUTPUT:
 ![Screenshot 2024-10-13 162455](https://github.com/user-attachments/assets/6247f4a3-2fec-4a59-819b-c367a4679159)
 
-# RESULT:
+## RESULT:
 Hence,to use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is done successfully.
